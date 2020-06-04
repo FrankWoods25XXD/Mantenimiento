@@ -1,0 +1,11 @@
+ID = Numero del informe
+Unidad = Referencia del equipo que se usa
+Comentarios = Accion que se le realizo al equipo
+
+Fechareg = Fecha de registro
+Userreg = Usuario registrado
+
+Fechamod = Fecha de la modificacion
+Usermod = Usuario que realizo la modificacion
+
+IdModulo = ??

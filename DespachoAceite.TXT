@@ -1,0 +1,13 @@
+Unidad = Numero del equipo
+
+linicialaceite = la cantidad de aceite inicial que llevaba el equipo
+lfinalaceite = la cantidad de aceite final que tiene el equipo
+
+comentarios = Accion que se le aplico
+cantidadlitro = la cantidad de litro que se le aplico al equipo
+
+fecha = el dia que se le aplico
+precio = el precio del aceite
+costo=  precio total del aceite esto mutiplicado por la cantidadlitro*precio
+
+id=numero de informe

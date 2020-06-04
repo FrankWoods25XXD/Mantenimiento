@@ -1,0 +1,16 @@
+ID = numero del informe
+noeconomico = ???
+KMActual = kilometraje actual que llevaba el equipo
+DespachoLit = ???
+
+Fechareg = la hora en que se registro
+userreg = el usuario que la registro
+
+fechamod = la fecha en que se modifico
+usermod = el usuario el que lo modifico
+
+KManterior = el kilometraje que llevaba el equipoa anteriormente
+Operador = el usuario que manejaba el equipo
+
+Rendimiento = porcentaje de eficiencia
+Precio = el precio de la modificacion
