@@ -1,0 +1,5 @@
+Los documentos en txt cuenta con una descripcion pequeña sobre las variables de cada base de datos respectivamente.
+Tambien cuenta con la base de datos
+El notebook de python llamado lastime, ahi es donde se realiza la limpieza de los datos, el data grinding y una pequeña
+parte de estadisticas en donde usamos el comando .describe() donde se puede visualizar la media, la mediana, cantidad total de
+valoresy quantiles de 25% , 50% y 75%
